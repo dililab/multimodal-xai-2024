@@ -29,7 +29,7 @@ tba
 
 Hendrik Buschmeier, Stefan Kopp, Teena C. Hassan
 
-[^1]: Miller, T. (2019). Explanation in artificial intelligence: Insights from the social sciences. Artificial Intelligence, 267, 1–38. [DOI:10.1016/j.artint.2018.07.007](https://doi.org/10.1016/j.artint.2018.07.007)
-[^2]: Stange, S., Hassan, T., Schröder, F., Konkol, J., & Kopp, S. (2022). Self-Explaining Social Robots: An Explainable Behavior Generation Architecture for Human-Robot Interaction. Frontiers in Artificial Intelligence, 5. [DOI:10.3389/frai.2022.866920](https://doi.org/10.3389/frai.2022.866920)
-[^3]: Rohlfing, K., Cimiano, P., Scharlau, I., Matzner, T., Buhl, H., Buschmeier, H., Grimminger, A., Hammer, B., Häb-Umbach, R., Horwath, I., Hüllermeier, E., Kern, F., Kopp, S., Thommes, K., Ngonga Ngomo, A.-C., Schulte, C., Wachsmuth, H., Wagner, P., & Wrede, B. (2021). Explanation as a social practice: Toward a conceptual framework for the social design of AI systems. IEEE Transactions on Cognitive and Developmental Systems, 13, 717–728. [DOI:10.1109/TCDS.2020.3044366](https://doi.org/10.1109/TCDS.2020.3044366)
+[^1]: Miller, T. (2019). Explanation in artificial intelligence: Insights from the social sciences. _Artificial Intelligence,_ 267, 1–38. [DOI:10.1016/j.artint.2018.07.007](https://doi.org/10.1016/j.artint.2018.07.007)
+[^2]: Stange, S., Hassan, T., Schröder, F., Konkol, J., & Kopp, S. (2022). Self-Explaining Social Robots: An Explainable Behavior Generation Architecture for Human-Robot Interaction. _Frontiers in Artificial Intelligence,_ 5. [DOI:10.3389/frai.2022.866920](https://doi.org/10.3389/frai.2022.866920)
+[^3]: Rohlfing, K., Cimiano, P., Scharlau, I., Matzner, T., Buhl, H., Buschmeier, H., Grimminger, A., Hammer, B., Häb-Umbach, R., Horwath, I., Hüllermeier, E., Kern, F., Kopp, S., Thommes, K., Ngonga Ngomo, A.-C., Schulte, C., Wachsmuth, H., Wagner, P., & Wrede, B. (2021). Explanation as a social practice: Toward a conceptual framework for the social design of AI systems. _IEEE Transactions on Cognitive and Developmental Systems,_ 13, 717–728. [DOI:10.1109/TCDS.2020.3044366](https://doi.org/10.1109/TCDS.2020.3044366)
 
