@@ -2,6 +2,6 @@ main:
   - title: "Call"
     url: /call
   - title: "Organisation"
-    url: /organistion/
+    url: /organisation/
   - title: "Contact"
     url: /contact/
