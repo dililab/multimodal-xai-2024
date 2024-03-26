@@ -5,3 +5,5 @@ main:
     url: /organisation/
   - title: "Contact"
     url: /contact/
+  - title: "Impressum"
+    url: https://www.uni-bielefeld.de/impressum/
