@@ -1,5 +1,5 @@
 ---
-permalink: /call/
+permalink: /important-dates/
 title: "Important Dates"
 ---
 
