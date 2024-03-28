@@ -1,6 +1,8 @@
 main:
   - title: "Call"
-    url: /call
+    url: /calls
+  - title: "Important Dates"
+    url: /important-dates/
   - title: "Organisation"
     url: /organisation/
   - title: "Contact"
