@@ -3,8 +3,6 @@ permalink: /important-dates/
 title: "Important Dates"
 ---
 
-# Important Dates
-
 All dates anywhere on earth
 
 * Submission due: June 3, 2024
