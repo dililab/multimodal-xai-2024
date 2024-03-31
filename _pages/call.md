@@ -1,5 +1,5 @@
 ---
-permalink: /call/
+permalink: /call-for-papers/
 title: "Call for Paper"
 ---
 
