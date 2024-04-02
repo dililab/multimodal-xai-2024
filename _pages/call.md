@@ -4,10 +4,9 @@ title: "Call for Paper"
 ---
 
 ### Call for Papers
-1st Multimodal-XAI Workshop 
-“Multimodal Co-Construction of Explanations with XAI”
-
+1st Multimodal-XAI Workshop “Multimodal Co-Construction of Explanations with XAI”
 Workshop held at ACM ICMI 2024
+
 [Website](https://dililab.github.io/multimodal-xai-2024/)
 
 
