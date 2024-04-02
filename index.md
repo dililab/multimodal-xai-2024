@@ -28,9 +28,9 @@ All dates anywhere on earth
 * Workshop Date: November 4 or 8, 2024 (tbd)
 
 
-## Submission instructions
+## Call for papers
 
-tba
+https://dililab.github.io/multimodal-xai-2024/call-for-papers/
 
 
 ## Organisers
