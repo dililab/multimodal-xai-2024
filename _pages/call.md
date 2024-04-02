@@ -27,7 +27,7 @@ This full-day workshop includes two keynotes, oral paper presentations and a pos
 ### Topics of Interest:
 We invite paper submissions on several topics, including (but not limited to):
 *	Computational approaches for generating multimodal explanations
-*	Approaches to multimodal ML explainable
+*	Approaches to multimodal explainable machine learning
 *	Multimodal recognition of user explanation needs 
 *	Multimodal explanation dialogue models and systems
 *	Architectures for multimodal explainable AI systems
