@@ -3,7 +3,7 @@ permalink: /call-for-papers/
 title: "Call for Paper"
 ---
 
-++ Call for Papers
+**Call for Papers
 1st Multimodal-XAI Workshop 
 “Multimodal Co-Construction of Explanations with XAI”
 
