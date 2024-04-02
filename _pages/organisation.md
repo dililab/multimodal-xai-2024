@@ -9,4 +9,4 @@ The Workshop “Multimodal Co-Construction of Explanation with XAI” is a full-
 
 * [Hendrik Buschmeier](https://purl.net/org/hbuschme), Bielefeld University
 * [Stefan Kopp](https://www.techfak.uni-bielefeld.de/~skopp/), Bielefeld University
-* [Teena C. Hassan](https://www.h-brs.de/de/inf/prof-dr-teena-chakkalayil-hassan), University for Applied Science Bonn-Rhein-Sieg 
+* [Teena C. Hassan](https://www.h-brs.de/de/inf/prof-dr-teena-chakkalayil-hassan), Bonn-Rhein-Sieg University of Applied Sciences
