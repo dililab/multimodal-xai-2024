@@ -1,9 +1,8 @@
 ---
 permalink: /call-for-papers/
-title: "Call for Paper"
+title: "Call for Papers"
 ---
 
-### Call for Papers
 #### 1st Multimodal-XAI Workshop “Multimodal Co-Construction of Explanations with XAI”
 
 Workshop held at ACM ICMI 2024
