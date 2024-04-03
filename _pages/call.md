@@ -3,11 +3,11 @@ permalink: /call-for-papers/
 title: "Call for Papers"
 ---
 
-#### 1st Multimodal-XAI Workshop on “Multimodal Co-Construction of Explanations with XAI”
+#### 1st Multimodal-XAI Workshop: “Multimodal Co-Construction of Explanations with XAI”
 
 Workshop held at ACM ICMI 2024 (hybrid, with online participation possible)
 
-[Website](https://dililab.github.io/multimodal-xai-2024/)
+[(https://dililab.github.io/multimodal-xai-2024/)](https://dililab.github.io/multimodal-xai-2024/)
 
 
 We cordially invite you to submit papers to the 1st Workshop on Multimodal Co-Construction of Explanations with XAI (Multimodal-XAI), which will be held as part of the 26th ACM International Conference on Multimodal Interaction (ICMI 2024) in San José, Costa Rica on 4th or 8th November 2024. Participating online  through video conferencing will be possible.
@@ -47,9 +47,9 @@ Two types of submissions are possible:
 *	Full papers: 6 pages, excluding references
 *	Short papers: 2 pages, excluding references
 
-All submitted papers should be in 2-column format and should conform to the ACM guidelines. See [Sections “Preparing paper with Latex” and “Preparing paper with Word”](https://icmi.acm.org/2024/guidelines/) for information on the templates for preparing the manuscripts.
+All submitted papers should be in 2-column format and should conform to the ACM guidelines. See Sections “Preparing paper with Latex” and “Preparing paper with Word” for information on the templates for preparing the manuscripts: [https://icmi.acm.org/2024/guidelines/](https://icmi.acm.org/2024/guidelines/).
 
-Papers should be submitted through the [OpenReview portal](https://openreview.net/group?id=ACM.org/ICMI/2024/Workshop/MultimodalXAI)
+Papers should be submitted through the OpenReview portal: [https://openreview.net/group?id=ACM.org/ICMI/2024/Workshop/MultimodalXAI](https://openreview.net/group?id=ACM.org/ICMI/2024/Workshop/MultimodalXAI)
 
 All papers will be reviewed based on their relevance, originality, and quality. Full papers accepted after the double-blind review process will be eligible for oral and/or poster presentation. Accepted short papers will be  eligible for poster presentation only. Please note that all accepted papers (full and short) will be published as workshop proceedings in the ACM Digital Library along with the ICMI proceedings. 
 
