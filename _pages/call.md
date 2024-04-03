@@ -7,7 +7,7 @@ title: "Call for Papers"
 
 Workshop held at ACM ICMI 2024 (hybrid, with online participation possible)
 
-[(https://dililab.github.io/multimodal-xai-2024/)](https://dililab.github.io/multimodal-xai-2024/)
+[https://dililab.github.io/multimodal-xai-2024/](https://dililab.github.io/multimodal-xai-2024/)
 
 
 We cordially invite you to submit papers to the 1st Workshop on Multimodal Co-Construction of Explanations with XAI (Multimodal-XAI), which will be held as part of the 26th ACM International Conference on Multimodal Interaction (ICMI 2024) in San José, Costa Rica on 4th or 8th November 2024. Participating online  through video conferencing will be possible.
