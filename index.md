@@ -30,12 +30,14 @@ All dates anywhere on earth
 
 ## Submission instructions
 
-Please see the [Call for papers](https://dililab.github.io/multimodal-xai-2024/call-for-papers/) for all information on how to submit you work.
+Please see the [Call for Papers](https://dililab.github.io/multimodal-xai-2024/call-for-papers/) for all information on how to submit you work.
 
 
 ## Organisers
 
 Hendrik Buschmeier, Stefan Kopp, Teena C. Hassan
+
+__
 
 [^1]: Miller, T. (2019). Explanation in artificial intelligence: Insights from the social sciences. _Artificial Intelligence,_ 267, 1–38. [DOI:10.1016/j.artint.2018.07.007](https://doi.org/10.1016/j.artint.2018.07.007)
 [^2]: Stange, S., Hassan, T., Schröder, F., Konkol, J., & Kopp, S. (2022). Self-Explaining Social Robots: An Explainable Behavior Generation Architecture for Human-Robot Interaction. _Frontiers in Artificial Intelligence,_ 5. [DOI:10.3389/frai.2022.866920](https://doi.org/10.3389/frai.2022.866920)
