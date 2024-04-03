@@ -49,7 +49,8 @@ Two types of submissions are possible:
 
 All submitted papers should be in 2-column format and should conform to the ACM guidelines. See Sections “Preparing paper with Latex” and “Preparing paper with Word” for information on the templates for preparing the manuscripts: [https://icmi.acm.org/2024/guidelines/](https://icmi.acm.org/2024/guidelines/)
 
-Papers should be submitted through the OpenReview portal: [https://openreview.net/group?id=ACM.org/ICMI/2024/Workshop/MultimodalXAI](https://openreview.net/group?id=ACM.org/ICMI/2024/Workshop/MultimodalXAI)
+Papers should be submitted through the OpenReview portal: 
+[https://openreview.net/group?id=ACM.org/ICMI/2024/Workshop/MultimodalXAI](https://openreview.net/group?id=ACM.org/ICMI/2024/Workshop/MultimodalXAI)
 
 All papers will be reviewed based on their relevance, originality, and quality. Full papers accepted after the double-blind review process will be eligible for oral and/or poster presentation. Accepted short papers will be  eligible for poster presentation only. Please note that all accepted papers (full and short) will be published as workshop proceedings in the ACM Digital Library along with the ICMI proceedings. 
 
