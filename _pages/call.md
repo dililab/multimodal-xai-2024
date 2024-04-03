@@ -47,7 +47,7 @@ Two types of submissions are possible:
 *	Full papers: 6 pages, excluding references
 *	Short papers: 2 pages, excluding references
 
-All submitted papers should be in 2-column format and should conform to the ACM guidelines. See Sections “Preparing paper with Latex” and “Preparing paper with Word” for information on the templates for preparing the manuscripts: [https://icmi.acm.org/2024/guidelines/](https://icmi.acm.org/2024/guidelines/).
+All submitted papers should be in 2-column format and should conform to the ACM guidelines. See Sections “Preparing paper with Latex” and “Preparing paper with Word” for information on the templates for preparing the manuscripts: [https://icmi.acm.org/2024/guidelines/](https://icmi.acm.org/2024/guidelines/)
 
 Papers should be submitted through the OpenReview portal: [https://openreview.net/group?id=ACM.org/ICMI/2024/Workshop/MultimodalXAI](https://openreview.net/group?id=ACM.org/ICMI/2024/Workshop/MultimodalXAI)
 
