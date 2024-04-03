@@ -3,14 +3,14 @@ permalink: /call-for-papers/
 title: "Call for Papers"
 ---
 
-#### 1st Multimodal-XAI Workshop “Multimodal Co-Construction of Explanations with XAI”
+#### 1st Multimodal-XAI Workshop on “Multimodal Co-Construction of Explanations with XAI”
 
-Workshop held at ACM ICMI 2024
+Workshop held at ACM ICMI 2024 (hybrid, with online participation possible)
 
 [Website](https://dililab.github.io/multimodal-xai-2024/)
 
 
-We cordially invite you to submit papers to the 1st Workshop on Multimodal Co-Construction of Explanations with XAI (Multimodal-XAI), which will be held as part of the 26th ACM International Conference on Multimodal Interaction (ICMI 2024) in San José, Costa Rica on 4th or 8th November 2024. 
+We cordially invite you to submit papers to the 1st Workshop on Multimodal Co-Construction of Explanations with XAI (Multimodal-XAI), which will be held as part of the 26th ACM International Conference on Multimodal Interaction (ICMI 2024) in San José, Costa Rica on 4th or 8th November 2024. Participating online  through video conferencing will be possible.
 
 ### Overview:
 This workshop aims to bring together two growing and increasingly important research strands — explainable AI (XAI) and multimodal interaction — in order to establish and promote a new field of research that investigates the construction of explanations by means of multimodal interaction between an XAI system (as explainer) and a human user (as explainee). With this workshop, we intend to foster scientific exchange and cross-fertilization between the XAI and ICMI communities in order to better understand XAI as a multimodal, interactive co-construction challenge and to identify key research lines and approaches.
