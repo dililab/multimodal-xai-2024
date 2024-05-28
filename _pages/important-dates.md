@@ -5,7 +5,7 @@ title: "Important Dates"
 
 All dates anywhere on earth
 
-* Submission due: June 3, 2024
+* Submission due: ~~June 3, 2024~~ June 10, 2024
 * Notification: July 2, 2024
 * Camera-ready due: August 16, 2024
 
