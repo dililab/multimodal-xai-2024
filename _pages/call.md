@@ -5,7 +5,7 @@ title: "Call for Papers"
 
 #### 1st Multimodal-XAI Workshop: “Multimodal Co-Construction of Explanations with XAI”
 
-Workshop held at ACM ICMI 2024 (hybrid, with online participation possible)
+Workshop held at ACM ICMI 2024
 
 [https://dililab.github.io/multimodal-xai-2024/](https://dililab.github.io/multimodal-xai-2024/)
 
@@ -18,8 +18,8 @@ This workshop aims to bring together two growing and increasingly important rese
 This full-day workshop includes two keynotes, oral paper presentations and a poster session. Given the interdisciplinary nature of the topic of this workshop, the keynote speakers, programme committee members, and organisers hail from diverse disciplines including XAI, Human-Computer/Robot Interaction, Multimodal Interfaces, Cognitive Science, and Digital Linguistics. 
 
 ### Important Dates:
-*	Paper submission deadline: 3rd June 2024, 23:59 AOE
-*	Paper acceptance notification: 2nd July 2024
+*	Paper submission deadline: 1st August 2024, 23:59 AOE
+*	Paper acceptance notification: 12th August 2024
 *	Camera-ready version due: 16th August 2024, 23:59 AOE
 *	Workshop date: 4th or 8th November 2024 (TBD)
 
@@ -52,7 +52,7 @@ All submitted papers should be in 2-column format and should conform to the ACM 
 Papers should be submitted through the OpenReview portal: 
 [https://openreview.net/group?id=ACM.org/ICMI/2024/Workshop/MultimodalXAI](https://openreview.net/group?id=ACM.org/ICMI/2024/Workshop/MultimodalXAI)
 
-All papers will be reviewed based on their relevance, originality, and quality. Full papers accepted after the double-blind review process will be eligible for oral and/or poster presentation. Accepted short papers will be  eligible for poster presentation only. Please note that all accepted papers (full and short) will be published as workshop proceedings in the ACM Digital Library along with the ICMI proceedings. 
+All papers will be reviewed based on their relevance, originality, and quality. Full papers accepted after the double-blind review process will be eligible for oral and/or poster presentation. Accepted short papers will be eligible for poster presentation only. Please note that all accepted papers (full and short) will be published as workshop proceedings in the ACM Digital Library along with the ICMI proceedings. 
 
 ### Organisers:
 *	Hendrik Buschmeier, Bielefeld University
