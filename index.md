@@ -21,8 +21,8 @@ With this workshop, we aim to foster scientific exchange and cross-fertilization
 
 All dates anywhere on earth
 
-* Submission due: June 3, 2024
-* Notification: July 2, 2024
+* Submission due: August 1, 2024
+* Notification: August 12, 2024
 * Camera-ready due: August 16, 2024
 * Workshop date: November 4 or 8, 2024 (tbd)
 
