@@ -9,4 +9,4 @@ All dates anywhere on earth
 * Notification: August 12, 2024
 * Camera-ready due: August 16, 2024
 
-* Workshop Date: November 4 or 8, 2024 (tbd)
+* Workshop Date: November 4, 2024 (09:00–15:30, UTC−06:00)
