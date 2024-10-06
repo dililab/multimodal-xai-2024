@@ -1,7 +1,7 @@
 ---
 layout: splash
 permalink: /
-excerpt: "Full day workshop at ICMI 2024<br />November 4-8, 2024, Costa Rica"
+excerpt: "Full day workshop at ICMI 2024<br />November 4, 2024, Costa Rica"
 layout: single
 classes: wide
 header:
@@ -24,7 +24,7 @@ All dates anywhere on earth
 * Submission due: August 1, 2024
 * Notification: August 12, 2024
 * Camera-ready due: August 16, 2024
-* Workshop date: November 4 or 8, 2024 (tbd)
+* Workshop date: November 4, 2024
 
 
 ## Submission instructions
