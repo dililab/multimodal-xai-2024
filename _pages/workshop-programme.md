@@ -3,6 +3,8 @@ permalink: /workshop-programme/
 title: "Workshop Programme"
 ---
 
+The workshop will take place on Monday, November 4, 2024, 09:00–13:00 in San José, Costa Rica (UTC-06:00).
+
 | Time  | Title                                                                                                                                                  |                                                                 |
 |-------|--------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------|
 | 09:00 | Opening and Welcome                                                                                                                                    |                                                                 |
@@ -18,3 +20,8 @@ title: "Workshop Programme"
 | 14:30 | **Discussion: Multimodal co-construction across different XAI-applications**                                                                               | Teena Hassan (Moderator), workshop participants                 |
 | 15:15 | Wrap-up & Conclusion                                                                                                                                   |                                                                 |
 | 15:30 | _Coffee break_                                                                                                                                         |                                                                 |
+
+
+## Workshop location
+
+tba
