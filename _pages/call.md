@@ -21,7 +21,7 @@ This full-day workshop includes two keynotes, oral paper presentations and a pos
 *	Paper submission deadline: 1st August 2024, 23:59 AOE
 *	Paper acceptance notification: 12th August 2024
 *	Camera-ready version due: 16th August 2024, 23:59 AOE
-*	Workshop date: 4th or 8th November 2024 (TBD)
+*	Workshop date: November 4, 2024 (09:00–13:00, UTC-06:00)
 
 ### Topics of Interest:
 We invite paper submissions on several topics, including (but not limited to):
