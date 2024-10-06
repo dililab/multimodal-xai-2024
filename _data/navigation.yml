@@ -1,4 +1,6 @@
 main:
+  - title: "Programme"
+    url: /workshop-programme/
   - title: "Call"
     url: /call-for-papers/
   - title: "Important Dates"
