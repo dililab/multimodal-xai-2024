@@ -1,10 +1,10 @@
 main:
   - title: "Programme"
     url: /workshop-programme/
-  - title: "Call"
-    url: /call-for-papers/
   - title: "Organisation"
     url: /organisation/
+  - title: "Call"
+    url: /call-for-papers/
   - title: "Contact"
     url: /contact/
   - title: "Impressum"
