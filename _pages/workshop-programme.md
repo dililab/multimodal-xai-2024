@@ -29,4 +29,4 @@ tba
 ## Instructions for authors
 
 * Oral: Presentations are scheduled for 20 minutes + 15 minutes discussion each.
-* Poster: Posters should be A0 portrait orientation (84.1 x 118.9 cm).
+* Poster: Posters should be max ISO-A0 (84.1 x 118.9 cm), portrait orientation .
