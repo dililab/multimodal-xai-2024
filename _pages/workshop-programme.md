@@ -26,7 +26,7 @@ The workshop will take place on Monday, November 4, 2024, 09:00–13:00 in San J
 
 tba
 
-## Instructions for authors
+## Instructions for presenters
 
 * Oral: Presentations are scheduled for 20 minutes + 15 minutes discussion each.
 * Poster: Posters should be max ISO-A0 (84.1 x 118.9 cm), portrait orientation .
