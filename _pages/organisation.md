@@ -13,4 +13,4 @@ The Workshop “Multimodal Co-Construction of Explanation with XAI” is a full-
 
 ## Support
 
-Organisation of this workshop is supported by the German Research Foundation (DFG) in the [Collaborative Research Center TRR 318/1 2021 ‘Constructing Explainability’](https://trr318.uni-paderborn.de/en/) (438445824).
+Organisation of this workshop is supported by the German Research Foundation (DFG) in the [Collaborative Research Center TRR 318/1 2021 ‘Constructing Explainability’](https://trr318.uni-paderborn.de/en/) (438445824) as well as by the Ministerium für Kultur und Wissenschaft (MKW) des Landes Nordrhein-Westfalen via the Profilbildung 2022 project [“Zentrum Assistive Technologien Rhein-Ruhr”](https://www.h-brs.de/en/center-assistive-technologies-rhein-ruhr) (PB22-076B).
