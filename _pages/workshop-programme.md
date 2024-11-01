@@ -3,7 +3,7 @@ permalink: /workshop-programme/
 title: "Workshop Programme"
 ---
 
-The workshop will take place on Monday, November 4, 2024, 09:00–13:00 in San José, Costa Rica (UTC-06:00).
+The workshop will take place on Monday, November 4, 2024, 09:00–15:30 in San José, Costa Rica (UTC-06:00).
 
 | Time  | Title                                                                                                                                                  |                                                                 |
 |-------|--------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------|
@@ -24,9 +24,9 @@ The workshop will take place on Monday, November 4, 2024, 09:00–13:00 in San J
 
 ## Workshop location
 
-tba
+ICMI Conference Venue, Room 2
 
 ## Instructions for presenters
 
 * Oral: Presentations are scheduled for 20 minutes + 15 minutes discussion each.
-* Poster: Posters should be max ISO-A0 (84.1 x 118.9 cm), portrait orientation .
+* Poster: Posters should be max ISO-A0 (84.1 x 118.9 cm), _portrait_ orientation.
