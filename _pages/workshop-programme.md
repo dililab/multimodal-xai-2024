@@ -24,7 +24,7 @@ The workshop will take place on Monday, November 4, 2024, 09:00–15:30 in San J
 
 ## Workshop location
 
-ICMI Conference Venue, Room 2
+* [ICMI Conference Venue](https://icmi.acm.org/2024/venue/), Room __2__.
 
 ## Instructions for presenters
 
