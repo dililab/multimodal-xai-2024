@@ -3,7 +3,7 @@ permalink: /organisation/
 title: "Organisation"
 ---
 
-The Workshop “Multimodal Co-Construction of Explanation with XAI” is a full-day workshop at the 26th ACM International Conference on Multimodal Interaction [ICMI 2024](https://icmi.acm.org/2024/). ICMI 2024 will be held in Costa Rica from November 4–8, 2024.
+The Workshop “Multimodal Co-Construction of Explanation with XAI” is a full-day workshop at the 26th ACM International Conference on Multimodal Interaction [ICMI 2024](https://icmi.acm.org/2024/). ICMI 2024 will be held in San José, Costa Rica from November 4–8, 2024.
 
 ## Organisers
 
