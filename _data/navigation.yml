@@ -1,6 +1,8 @@
 main:
   - title: "Programme"
     url: /workshop-programme/
+  - title: "Proceedings"
+    url: /workshop-proceedings/
   - title: "Organisation"
     url: /organisation/
   - title: "Call"
